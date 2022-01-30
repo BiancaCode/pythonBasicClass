@@ -1,4 +1,4 @@
-"""Tarea 2 Problema 5
+"""Tarea 2 Problema 6
 Bianca Gonzalez
 Escriba un programa aue le solicite al usuario que ingrese una frase y un carácter que será
 utilizado para reemplazar los espacios en blanco que contiene la frase.
