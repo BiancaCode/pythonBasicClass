@@ -87,3 +87,23 @@ Tarea3_Problema5. En un concurso hay tres jueces. La opinión del juez es 1 si e
 Para que un participante pueda continuar en el concurso debe tener al menos dos votos
 favorables. Escriba un algoritmo que lea los votos de los tres jueces y muestre el resultado
 mediante un mensaje: CONTINUA o ELIMINADO. No sume votos. Debe compararlos.
+
+
+Tarea4_Problema1
+Escribir todos los números entre el 100 y el 199.
+
+Tarea4_Problema2.
+Solicitar al usuario un número entero positivo. El programa debe escribir los números entre 
+el número ingresado y uno menos del doble del mismo.
+
+Tarea4_Problema3. 
+Crear un programa que solicite el ingreso de números enteros positivos, hasta que el usuario 
+ingrese el 0. Por cada número, informar cuántos dígitos pares y cuántos impares tiene.
+
+Tarea4_Problema4.
+Cree un programa que utilice un ciclo para mostrar cada entero entre 1 y 5 junto con su 
+cuadrado.
+
+Tarea4_Problema5. 
+Calcule el promedio, el menor valor y el mayor valor de los pesos de n paquetes en una bodega. 
+Estos datos ingresan uno a la vez dentro de un ciclo. n es un dato ingresado al inicio.
