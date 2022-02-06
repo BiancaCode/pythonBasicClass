@@ -56,3 +56,34 @@ segunda cadena es parte de la primera cadena.
 
 Tarea2_Problema5 Escriba un programa aue le solicite a! usuario aue ingrese una frase y un carácter que será 
 utilizado para reemplazar los espacios en blanco que contiene la frase.
+
+
+
+
+Tarea3_Problema1 Cree un programa que lea la cantidad de Kw que ha consumido una familia y el precio por Kw.
+Si la cantidad es mayor a 700, incremente el precio en 5% para el exceso de Kw sobre 700.
+Muestre el valor total a pagar.
+
+Tarea3_Problema2. Crear un programa que lea el número de llantas de una compra y debe mostrar el monto a
+pagar. El almacén las vende con la siguiente política: Si se compran menos de 5 llantas, el
+precio unitario es 80. Si se compran 6 o 7, el precio unitario es 70, y si se compran más de 7
+llantas, el precio unitario es 60.
+
+Tarea3_Problema3. El número de pulsaciones que debe tener una persona por cada 10 segundos de ejercicio
+aeróbico se calcula con la fórmula:
+Género femenino (1): número de pulsaciones = (220 - edad en años)/10
+Género masculino (2): número de pulsaciones = (210 - edad en años)/10
+ Lea la edad y el género y muestre el número de pulsaciones.
+
+Tarea3_Problema4. El índice de masa corporal IMC de una persona se calcula con la fórmula IMC=P/T2 en donde
+P es el peso en Kg. y T es la talla en metros.
+Lea un valor de P y de T, calcule el IMC y muestre su estado según la siguiente tabla:
+IMC Estado
+Menos de 18.5 Desnutrido
+18.5 a 25.5 Peso Normal
+Más de 25.5 Sobrepeso
+
+Tarea3_Problema5. En un concurso hay tres jueces. La opinión del juez es 1 si está a favor y 0 si está en contra.
+Para que un participante pueda continuar en el concurso debe tener al menos dos votos
+favorables. Escriba un algoritmo que lea los votos de los tres jueces y muestre el resultado
+mediante un mensaje: CONTINUA o ELIMINADO. No sume votos. Debe compararlos.
