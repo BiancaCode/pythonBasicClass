@@ -107,3 +107,27 @@ cuadrado.
 Tarea4_Problema5. 
 Calcule el promedio, el menor valor y el mayor valor de los pesos de n paquetes en una bodega. 
 Estos datos ingresan uno a la vez dentro de un ciclo. n es un dato ingresado al inicio.
+
+
+Tarea5_Problema1.
+Se desea un programa que lea dos números enteros. El programa debe realizar las
+siguientes validaciones:
+a. Si el primer número es mayor que el segundo, debe devolver 1.
+b. Si el primer número es menor que el segundo, debe devolver -1.
+c. Si ambos números son iguales, debe devolver un 0.
+La solución implementada debe utilizar función.
+
+Tarea5_Problema2. 
+Se desea un programa que convierta millas a kilómetros. Una milla equivale a 1.609344
+kilómetros.
+
+Tarea5_Problema3. 
+Un proveedor de televisores ofrece un descuento del 10% sobre el precio sin impuesto, de
+algún aparato el costo es de $2000 o más. Además, independientemente de esto, ofrece un
+
+Tarea5_Problema4. 
+Defina una función que acepte tres valores enteros y devuelva el máximo de los tres números.
+
+Tarea5_Problema5. 
+Utilizando una función recursiva escribir los números de n a 1 descendentemente. Leer un
+número entero positivo
