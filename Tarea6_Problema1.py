@@ -52,7 +52,7 @@ def porcentaje(ap, re):
     pa = (ap / (ap + re)) * 100
     pre = 100 - pa
     print("Porcentaje de Aprobados: %.2f" % pa, "%")
-    print("Porcentaje de Reprobados: %.2f", pre, "%")
+    print("Porcentaje de Reprobados: %.2f"% pre, "%")
 
 
 def clasificar(tiempos):
