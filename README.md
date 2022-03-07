@@ -131,3 +131,34 @@ Defina una función que acepte tres valores enteros y devuelva el máximo de los
 Tarea5_Problema5. 
 Utilizando una función recursiva escribir los números de n a 1 descendentemente. Leer un
 número entero positivo
+
+
+
+
+
+Tarea7_Problemal.
+Se desea un programa que tenga una tupla que almacene 10 números enteros. Con la tupla el programa debe presenta el cuadrado de los números almacenados en la tupla.
+
+Tarea7_Problema2.	Se desea un programa que tenga una tupla que almacene 10 números enteros entre el 100 al
+200.	Con la tupla realizar las siguientes operaciones :
+•	Obtener el valor máximo de la tupla
+•	Obtener el valor mínimo de la tupla
+•	Sumar los valores almacenados en la tupla
+•	Imprimir los valores almar.enados en la tupla
+•	Eliminar la tupla
+
+
+Tarea7_Problema3 
+Construya un pr0t:irama CJue utilir.e una tupla r.on r.inr.o nombres de países 1 ueoo de r.ada nombre extraiga las 3 primeras posiciones y las inserta en otra tupla. Finalmente imprima el cJnten ido de ambas tuplas de la siguiente forma:
+PAN-PANA MA COL-COLOMBIA VEN-V ENEZUELA
+
+Tarea7_Problema4.	 
+En un almacén se tiene el registro de las ventas de los últimos 12 meses (histórico). Almacenar
+el histórico en una tupla. El almacén desea realizar una proyección de ventas para los siguientes 12 meses. Se tiene que los meses 3. 6 y 12 tienen generalmente en promedio un incremento del 4%, los meses 1,4, 5 y 7 tienen un incremento del 1.5% el resto de los meses
+tienen un incremento aproximado del 0.8 %. Presentar 13 proyecc ión para los siguientes 12 meses y dejarlos almacenados en una lista. Al finaliza r el programa debe presentar la venta histór ica y la venta proyecta para cada uno de los meses.
+
+Tarea7_Problema5.	
+En una sala de urgencias se lleva el registro histórico de la cantidad de pacientes que han ingresado en los últimos 6 meses. El hospital está realizando un análisis para determinar en cuántos meses registran la necesidad de mayor personal en enfermería para atender las urgenc ias. Para este análisis es necesario conocer los meses en los cuales la cantidad de paciente superó el promedio de la cantidad de pacientes que ingres3ron.
+
+El programa debe presentar los datos en formato tabular indicando el número del registro histórico, la cantidad ingresos, la cantidad de pacientes superior al ingreso y el mensaje se requiere mayor personal de enferme ría.
+
