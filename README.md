@@ -162,3 +162,25 @@ En una sala de urgencias se lleva el registro histórico de la cantidad de pacie
 
 El programa debe presentar los datos en formato tabular indicando el número del registro histórico, la cantidad ingresos, la cantidad de pacientes superior al ingreso y el mensaje se requiere mayor personal de enferme ría.
 
+Tarea9_Problema1.
+Escribir un programa que implemente una agenda. En la agenda se podrán guardar nombres y números de teléfono. El programa nos dará el siguiente menú:
+a. Añadir/modificar: Nos pide un nombre. Si el nombre se encuentra en la agenda, debe mostrar el teléfono y, opcionalmente, permitir modificarlo si no es correcto. Si el nombre no se encuentra, debe permitir ingresar el teléfono correspondiente.
+b. Buscar: Nos pide una cadena de caracteres, y nos muestras todos los contactos cuyos nombres comiencen por dicha cadena.
+c. Borrar: Nos pide un nombre y si existe nos preguntará si queremos borrarlo de la agenda.
+d. Listar: Nos muestra todos los contactos de la agenda.
+
+Tarea9_Problema2. 
+Cree un programa en Python que combine dos diccionarios.
+
+Tarea9_Problema3. 
+Cree un programa que le permita remover las claves que se encuentran en la lista del diccionario.
+
+Tarea9_Problema4. 
+Cree un programa que le permita obtener la clave para el valor mínimo que se encuentra en el diccionario.
+
+Tarea9_Problema5. 
+Crear un programa que implemente el uso de diccionario para guardar los precios de las 
+distintas frutas. El programa pedirá el nombre de la fruta y la cantidad que se ha vendido 
+y nos mostrará el precio final de la fruta a partir de los datos guardados en el diccionario. 
+Si la fruta no existe nos mandará un error. Tras cada consulta el programa nos preguntará 
+si queremos realizar otra consulta.
