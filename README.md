@@ -12,7 +12,7 @@ va = velocidad del cuerpo a vb = velocidad del cuerpo b
 D = distancia aue separa “a” de “b”
 te = d/(va +vb)
 
-**No existe Tarea1_Problema5
+**No existe Tarea1_Problema5**
 
 Tarea1_Problema6. Determine la distancia entre dos puntos en el espacio. (x1,y1, z1) y(x2, y2, z2)
 dis((z2—z1)^2+(y2—y1)^2+(x2—x1)^2)^0.5
@@ -161,6 +161,8 @@ Tarea7_Problema5.
 En una sala de urgencias se lleva el registro histórico de la cantidad de pacientes que han ingresado en los últimos 6 meses. El hospital está realizando un análisis para determinar en cuántos meses registran la necesidad de mayor personal en enfermería para atender las urgenc ias. Para este análisis es necesario conocer los meses en los cuales la cantidad de paciente superó el promedio de la cantidad de pacientes que ingres3ron.
 
 El programa debe presentar los datos en formato tabular indicando el número del registro histórico, la cantidad ingresos, la cantidad de pacientes superior al ingreso y el mensaje se requiere mayor personal de enferme ría.
+
+//Agregar Tarea 8
 
 Tarea9_Problema1.
 Escribir un programa que implemente una agenda. En la agenda se podrán guardar nombres y números de teléfono. El programa nos dará el siguiente menú:
