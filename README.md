@@ -162,7 +162,7 @@ En una sala de urgencias se lleva el registro histórico de la cantidad de pacie
 
 El programa debe presentar los datos en formato tabular indicando el número del registro histórico, la cantidad ingresos, la cantidad de pacientes superior al ingreso y el mensaje se requiere mayor personal de enferme ría.
 
-//Agregar Tarea 8
+//Agregar Tarea 8************
 
 Tarea9_Problema1.
 Escribir un programa que implemente una agenda. En la agenda se podrán guardar nombres y números de teléfono. El programa nos dará el siguiente menú:
