@@ -9,7 +9,7 @@ Tarea1_Problema3. Realice un programa que convierta millas a kilómetros. Se saD
 
 Tarea1_Problema4. Dado la velocidad de 2 cuerpos que se dirigen uno al encuentro de otro determinar el tiempo de encuentro si la distancia aue los se para inicialmente es “D”.
 va = velocidad del cuerpo a vb = velocidad del cuerpo b
-D = distancia aue separa “a” de “b”
+D = distancia aue separa “a” de “b”...
 te = d/(va +vb)
 
 **No existe Tarea1_Problema5**
